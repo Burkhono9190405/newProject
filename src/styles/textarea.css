@@ -1,0 +1,40 @@
+.TextArea {
+    width: 350px;
+    margin-top: 32px;
+}
+
+.TextAreaRadio {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    margin-bottom: 54px;
+}
+
+.TextAreaRadio2 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.TextAreaRadio2 p {
+    color: #3D3D3D;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+}
+
+.TextAreaRadio p {
+    color: #3D3D3D;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px; 
+}
+
+.TextArea textarea {
+    width: 350px;
+    height: 152px;
+    border-radius: 3px;
+    border: 1px solid #EAEAEA;
+}

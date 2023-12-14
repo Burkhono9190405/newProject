@@ -1,0 +1,13 @@
+.BigInputJolderWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 86px;
+    margin-bottom: 87px;
+} 
+
+@media(max-width:425px){
+    .BigInputJolderWrapper{
+        display: none;
+    }
+}

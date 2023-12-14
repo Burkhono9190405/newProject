@@ -1,0 +1,25 @@
+.PhonePlantTop {
+    display: flex;
+    align-items: center;
+    gap: 124px;
+    margin-left: 15px;
+}
+
+.PhonePlantTop1 {
+    width: 35px;
+    height: 35px;
+    background-color: #F3F3F3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    border-radius: 50px;
+}
+
+.PhonePlantTop h1 {
+    color: #3D3D3D;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+}

@@ -1,0 +1,13 @@
+.wrapper__minicard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 28px;
+    margin-bottom: 138px;
+} 
+@media (max-width:425px){
+    .wrapper__minicard{
+        gap: 0px;
+        display: block;
+    }
+}

@@ -1,0 +1,39 @@
+.Phone_cards {
+    width: 168px;
+    position: relative;
+    margin-top: 25px;
+    display: none;
+}
+
+.Phone_cards .img1 {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.Phone_cards h2 { 
+    color: #3D3D3D;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    margin-top: 9px;
+}
+
+.Phone_cards p {
+    margin-top: 4px;
+    color: #46A358;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+}
+.pos123{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+@media(max-width:425px){
+    .Phone_cards{
+        display: block;
+    }
+}

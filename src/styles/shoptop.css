@@ -1,0 +1,22 @@
+.shoptop {
+    display: flex;
+    align-items: center;
+    margin: 36px 0 45px;
+
+}
+
+.shoptop p {
+    color: #3D3D3D;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.shoptop h2 {
+    color: #2e2e2e;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+}

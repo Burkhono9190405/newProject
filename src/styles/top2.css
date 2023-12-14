@@ -1,0 +1,22 @@
+.top__wrapper2 {
+    margin: 0 0 35px;
+    display: flex;
+    align-items: center; 
+    margin-top: 15px;
+}
+
+.top__wrapper2 h2 {
+    color: #3D3D3D;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+}
+
+.top__wrapper2 p {
+    color: #727272;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}

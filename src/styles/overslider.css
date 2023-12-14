@@ -1,0 +1,9 @@
+.overslider{
+    width: 100px;
+}
+.cardslider2{
+    margin-top: 16px;
+}
+.cardslider2:nth-of-type(1){
+    margin-top: 0px;
+}

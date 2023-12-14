@@ -1,0 +1,23 @@
+.ShopCardSlider {
+    width: 310px;
+}
+
+.ShopCardSlider h2 {
+    color: #3D3D3D;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    margin-top: 19px;
+}
+.ShopCardSlider p{
+    color: #46A358;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px; 
+    margin-top: 5px;
+}
+.ShopCardSlider img{
+    height: 212px;
+}

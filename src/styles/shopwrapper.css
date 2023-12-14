@@ -1,0 +1,18 @@
+.ShopWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 52px;
+    margin-bottom: 92px;
+}
+.combine{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    gap: 29px;
+}
+@media(max-width:425px){
+    .ShopWrapper{
+        display: none;
+    }
+}

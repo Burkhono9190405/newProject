@@ -1,0 +1,184 @@
+.Hero__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 35px;
+    margin-top: 12px;
+}
+
+.Hero__content {
+    width: 667px;
+}
+
+.Hero__content h4 {
+    color: #3D3D3D;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    margin-left: 5px;
+}
+
+.Hero__content h1 {
+    color: #3D3D3D;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 70px;
+    text-transform: uppercase;
+}
+
+.Hero__content h1 span {
+    color: #46A358;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 70px;
+    text-transform: uppercase;
+    margin-top: 7px;
+}
+
+.Hero__content p {
+    color: #727272;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 5px;
+}
+
+.Hero__content button {
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    background: #46A358;
+    border: none;
+    margin-top: 44px;
+    width: 140px;
+    height: 40px;
+
+}
+
+.abs {
+    position: absolute;
+    
+    bottom: 41px;
+    right: 330px;
+}
+
+.Hero__images {
+    position: relative;
+}
+
+.phonehero {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    width: 366px;    
+} 
+
+.phonehero1 h4 {
+    color: #3D3D3D;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+    text-transform: uppercase;
+
+}
+
+.phonehero1 h1 {
+    color: #3D3D3D;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 29px;
+    text-transform: uppercase;
+}
+
+.phonehero1 h1 span {
+    color: #46A358;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 29px;
+    text-transform: uppercase;
+
+}
+
+.phonehero1 button p {
+    color: #46A358;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 14px;
+    text-transform: uppercase;
+
+}
+
+.phonehero1 button {
+    border: none;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    margin-top: 11px;
+}
+
+.phonehero2 {
+    position: relative;
+}
+
+.imahebob1 {
+    position: absolute;
+    top: 96px;
+    
+}
+
+.phonehero1 {
+    width: 206px;
+}
+
+.phonehero {
+    display: none;
+
+    border-radius: 30px;
+    background: linear-gradient(105deg, rgba(70, 163, 88, 0.20) 1.08%, rgba(70, 163, 88, 0.10) 99.23%);
+}
+
+
+
+@media (max-width: 425px){
+    .phonehero{
+        display: flex;
+        margin-left: 20px;
+    } 
+    .Hero__wrapper{
+        display: none;
+    }
+
+
+}
+
+
+.phonehero1 p {
+    margin-left: 15px;
+}
+
+
+.phonehero1 h4 {
+    margin-left: 15px;
+}
+
+
+.phonehero1 h1 {
+    margin-left: 15px;
+}

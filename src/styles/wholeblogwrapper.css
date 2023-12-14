@@ -1,0 +1,10 @@
+.WholeBlogWrapper{
+    display: flex;
+    align-items: center;
+    gap: 22px;
+}
+@media(max-width:425px){
+    .WholeBlogWrapper{
+        display: block;
+    }
+}

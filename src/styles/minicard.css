@@ -1,0 +1,91 @@
+.card_wrap {
+    width: 616px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-color: #FBFBFB;
+    padding-right: 38px;
+}
+
+@media(max-width:425px) {
+    .bigone4 {
+        width: 168px;
+        height: 168px;
+    }
+
+    .card_wrap {
+        width: 409px;
+        padding: 0px;
+    }
+
+
+    .card_wrap .content2 p {
+        width: 170px;
+    }
+}
+
+.overlay3 {
+    width: 586px;
+    height: 250px;
+    background: #fbfbfbf1;
+    z-index: 2;
+    position: absolute;
+    top: 0;
+}
+
+.positionimg {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.positionimg1 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.card_wrap h2 {
+    width: 146px;
+    color: #3D3D3D;
+    text-align: right;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 24px;
+    text-transform: uppercase;
+    margin-left: auto;
+}
+
+.card_wrap p {
+    width: 292px;
+    color: #727272;
+    text-align: right;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 10px;
+}
+
+.card_wrap button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    border-radius: 6px;
+    background: #46A358;
+    width: 140px;
+    height: 40px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    border: none;
+    margin-left: auto;
+    margin-top: 20px;
+}

@@ -1,0 +1,32 @@
+.BillingAddressWrapper {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+
+.BillingAddressWrapper h4 {
+    color: #3D3D3D;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+}
+.SelectOptionBlog select {
+    width: 350px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 3px;
+    border: 1px solid #EAEAEA;
+    margin-top: 10px;
+    padding-left: 13px;
+    padding-right: 11px;
+}
+
+
+.SelectOptionBlog option:nth-of-type(1){
+    color: #A5A5A5;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+}

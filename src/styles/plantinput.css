@@ -1,0 +1,164 @@
+.PlantInput {
+    width: 328px;
+}
+
+.PlantInput h1 {
+    color: #3D3D3D;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    border-bottom: 0.3px solid rgba(70, 163, 88, 0.50);
+    padding-bottom: 11px;
+    margin-bottom: 11px;
+}
+
+.PlantInputHolderWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 8px;
+    margin-bottom: 30px;
+}
+
+.PlantInputHolderWrapper input {
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border: 1px solid #46A358;
+    width: 332px;
+    height: 40px;
+    padding-left: 9px;
+}
+.PlantInputHolder h2{
+    color: #3D3D3D;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px;
+}
+.PlantInputHolderWrapper input::placeholder {
+    color: #A5A5A5;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+}
+
+.PlantInputHolderWrapper button {
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    width: 102px;
+    height: 40px;
+    flex-shrink: 0;
+    background: #46A358;
+    color: #FFF;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+}
+
+/* .PlantInput ul{
+   
+} */
+.PlantInput ul li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 17px;
+}
+
+.PlantInput ul li:nth-of-type(1) {
+    margin-top: 0px;
+}
+
+.PlantInput ul li p {
+    color: #3D3D3D;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.PlantInput ul li h5 {
+    color: #3D3D3D;
+    text-align: right;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+}
+
+.PlantInput ul li h5:nth-of-type(2) {
+    color: #3D3D3D;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.view {
+    color: #46A358;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    margin-top: 8px  ;
+    margin-bottom: 26px;
+    text-align: right;
+}
+
+.PlantInputContentAnchor {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 29px;
+}
+
+.PlantInputContentAnchor h3 {
+    color: #3D3D3D;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+}
+
+.PlantInputContentAnchor h4 {
+    color: #46A358;
+    text-align: right;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+}
+
+.PlantInputContent button {
+    border-radius: 3px;
+    background: #46A358;
+    width: 332px;
+    height: 40px;
+    color: #FFF;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+.PlantInputContent h6 {
+    color: #46A358;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    text-decoration: none;
+    margin-top: 14px ;
+    text-align: center;
+}

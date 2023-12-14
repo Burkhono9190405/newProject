@@ -1,0 +1,55 @@
+.InputHeader {
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 41px;
+    display: none;
+    margin-left: 70px;
+}
+@media(max-width:425px){
+    .InputHeader{
+        display: flex;
+    }
+}
+.InputHeaderWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.InputHeaderWrapper img {
+    position: absolute; 
+    left: 10px;
+}
+
+.InputHeaderWrapper input {
+    width: 313px;
+    height: 45px;
+    border-radius: 10px; 
+    background: #F8F8F8;
+    padding-left: 41px;
+    border: none;
+} 
+
+.InputHeaderWrapper input::placeholder {
+    color: #A5A5A5;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.rectanImg .rectanImg1 {
+    position: absolute;
+    top: 48px;
+    left: 30px;
+}
+
+.rectanImg {
+     
+    position: relative;
+}
+.rectanImg{
+    padding-top: 27px;
+}

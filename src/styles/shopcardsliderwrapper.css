@@ -1,0 +1,13 @@
+.ShopCardSliderWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 26px;
+    margin-bottom: 128px;
+}
+@media(max-width:425px){
+    .ShopCardSliderWrapper{
+        display: block;
+        margin:  0 auto;
+    }
+}

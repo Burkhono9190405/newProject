@@ -1,0 +1,247 @@
+.cardFooters h4 {
+    color: #3D3D3D;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    margin-top: 17px;
+
+}
+
+.cardFooters {
+    position: relative;
+    padding-left: 25px;
+    border-left: 1px solid rgba(70, 163, 88, 0.10);
+
+}
+
+.cardFooters:nth-of-type(1) {
+    border: none;
+}
+
+.cardFooters p {
+    color: #727272;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    width: 204px;
+    margin-top: 9px;
+}
+
+.card__content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 34px;
+    background: #FBFBFB;
+    height: 250px;
+    padding-top: 37px;
+}
+
+.image__shadow {
+    position: absolute;
+    top: -25px;
+    left: 20px;
+}
+
+.image__shadow1 {
+    position: absolute;
+    top: -25px;
+    left: 20px;
+}
+
+.image__shadow2 {
+    position: absolute;
+    top: -35px;
+    left: 20px;
+}
+
+.image__plant {
+    position: absolute;
+    top: -45px;
+    left: 38px;
+}
+
+.image__plant1 {
+    position: absolute;
+    top: -38px;
+    left: 55px;
+}
+
+.image__plant2 {
+    position: absolute;
+    top: -45px;
+    left: 50px;
+}
+
+.image__base1 {
+    margin-left: 15px;
+}
+
+.contact {
+    width: 354px;
+}
+
+.contact h2 {
+    color: #3D3D3D;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    margin-bottom: 18px;
+}
+
+.contact input {
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    background: #FFF;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.06);
+    height: 40px;
+    border: none;
+    width: 269px;
+    padding-left: 11px;
+}
+
+.contact input::placeholder {
+    color: #ACACAC;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.contact button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    color: #FFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    border-radius: 0px 6px 6px 0px;
+    background: #46A358;
+    width: 85px;
+    height: 40px;
+    border: none;
+}
+
+.contact p {
+    color: #727272;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    margin-top: 17px;
+}
+
+.btn_wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact {
+    margin-left: 30px;
+}
+
+.location ul li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 9px;
+}
+
+.location ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 87px;
+}
+.bob2{
+    margin-right: 105px;
+}
+.location ul li p {
+    color: #3D3D3D;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    width: 176px;
+}
+
+.location {
+    background: rgba(70, 163, 88, 0.10);
+    padding: 27px 23px 26px;
+}
+
+.about__footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #FBFBFB;
+    padding: 33px 23px 29px;
+}
+
+
+.about__footer ul {
+    gap: 8px;
+    margin-right: 166px;
+}
+
+
+.about__footer ul h2 {
+    color: #3D3D3D;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+}
+
+.about__footer ul li {
+    color: #3D3D3D;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.social_media h2 {
+    color: #3D3D3D;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+}
+
+.social_image_wrapper {
+    display: flex;
+    align-items: center;
+    
+    gap: 10px; 
+    margin: 20px 0 33px;
+}
+
+.socialwrap {
+    border-radius: 4px;
+    border: 1px solid rgba(70, 163, 88, 0.20);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+}
+.bank_company_wrapper{
+    margin-top: 13px;
+}
+.social_media{
+    margin-right: 105px;
+}
+@media(max-width:425px){
+    footer{
+        display: none;
+    }
+}

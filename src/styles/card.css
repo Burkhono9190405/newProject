@@ -1,0 +1,73 @@
+.Card__wrapper {
+    height: 370px;
+    position: relative;
+}
+
+.Card__wrapper h4 {
+    color: #3D3D3D;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.wrapper__div {
+    display: flex;
+
+}
+
+.wrapper__div h5 {
+    color: #46A358;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px; 
+   
+}
+
+.wrapper__div p {
+    color: #A5A5A5;
+    text-decoration: line-through #A5A5A5;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    margin-left: 16px;
+    z-index: 10;
+   
+}   
+
+.Card__wrapper .card_wrapper_image_card{ 
+    height: 250px;
+    z-index: 3;
+    margin-top: 24px;
+    margin-bottom: 25px ;
+}
+
+.overlay_card1 {
+    position: absolute;
+    top: 0px;
+    background: #fbfbfb3b;
+    width: 258px;
+    height: 300px;
+}
+.bob4{
+    position: absolute;
+    left: 75px;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    top: 260px;
+    display: none;
+}
+.card_wrapper_image_card_position{
+    position: absolute;
+    top: 0;
+    display: none;
+}
+.Card__wrapper:hover .card_wrapper_image_card_position{
+    display: block;
+}
+.Card__wrapper:hover .bob4{
+    display: flex;
+}

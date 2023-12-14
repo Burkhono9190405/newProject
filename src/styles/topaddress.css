@@ -1,0 +1,20 @@
+.TopAddress {
+    margin-bottom: 21px;
+    margin-top: 36px;
+    display: flex;
+    align-items: center;
+    gap: 667px;
+}
+
+.TopAddress h1 {
+    color: #3D3D3D;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+}
+@media(max-width:425px){
+    .TopAddress{
+        gap: 50px;
+    }
+}

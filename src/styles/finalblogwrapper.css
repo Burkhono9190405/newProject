@@ -1,0 +1,12 @@
+.FinalBlogWrapper{
+    display: flex;
+    align-items: center;
+    gap: 76px;
+    margin-bottom: 210px;
+}
+@media(max-width:425px){
+    .FinalBlogWrapper{
+        display: block;
+        gap: 0px;
+    }
+}

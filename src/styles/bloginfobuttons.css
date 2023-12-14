@@ -1,0 +1,147 @@
+.smallcard1 {
+    display: flex;
+    align-items: center;
+    gap: 11px;
+}
+.smallcard2 {
+    display: flex;
+    align-items: center;
+    gap: 11px;
+}
+.smallcard3 {
+    display: flex;
+    align-items: center;
+    gap: 11px;
+}
+
+.BlogInfoButtonsCard1 h5 {
+    color: #727272;
+    text-align: right;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    margin-left: 42px;
+}
+
+.BlogInfoButtonsCard1 {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    width: 405px;
+    height: 70px;
+    padding-right: 16px;
+}
+
+.BlogInfoButtonsCard2 {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    width: 405px;
+    height: 70px;
+    padding-right: 16px;
+}
+
+.BlogInfoButtonsCard3 {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    width: 405px;
+    height: 70px;
+    padding-right: 16px;
+}
+
+
+
+
+.BlogInfoButtonsCard1 h6 {
+    color: #46A358;
+    text-align: right;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    margin-left: 37px;
+}
+
+.BlogInfoButtonsCard2 h6 {
+    color: #46A358;
+    text-align: right;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    margin-left: 35px;
+}
+
+.BlogInfoButtonsCard3 h6 {
+    color: #46A358;
+    text-align: right;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    margin-left: 29px;
+}
+
+.BlogInfoButtonsCard1 {
+    width: 405px;
+    height: 70px;
+    flex-shrink: 0;
+    background: #FBFBFB;
+}
+
+.BlogInfoButtonsCard2 {
+    width: 405px;
+    height: 70px;
+    flex-shrink: 0;
+    background: #FBFBFB;
+}
+
+.BlogInfoButtonsCard2 h5 {
+    color: #727272;
+    text-align: right;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    margin-left: 37px;
+}
+
+.BlogInfoButtonsCard3 h5 {
+    color: #727272;
+    text-align: right;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    margin-left: 43px;
+}
+
+.BlogInfoButtonsCard3 {
+    width: 405px;
+    height: 70px;
+    flex-shrink: 0;
+    background: #FBFBFB;
+}
+
+.smallcard_content1 h2 {
+    color: #3D3D3D;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+}
+
+.smallcard_content1 p {
+    color: #A5A5A5;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    margin-top: 6px;
+}
+.image_view{
+    margin-top: 16px;
+    margin-bottom: 17px;
+}

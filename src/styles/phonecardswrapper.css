@@ -1,0 +1,9 @@
+.PhoneCardsWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 28px;
+}
+.PhoneCardsWrapper2{
+    margin-top: 31px;
+}

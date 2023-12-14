@@ -1,0 +1,115 @@
+.InputHolder{
+    width: 782px;
+}
+.InputHolder ul{
+    display: flex;
+    align-items: center;
+    gap: 108px;
+    border-bottom: 0.3px solid rgba(70, 163, 88, 0.50);
+    padding-bottom: 11px;
+}
+.bob6{
+    margin-right: 140px;
+}
+.InputHolder ul li{
+    color: #3D3D3D;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px; 
+}
+.LongCard {
+    display: flex;
+    align-items: center;
+    width: 782px;
+    height: 70px;
+    background: #FBFBFB;
+    padding-left: 2px ;
+    margin-top: 10px;
+}
+
+.smallcard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 14px;
+
+}
+
+.smallcard h2 {
+    color: #3D3D3D;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+    margin-bottom: 6px;
+}
+
+.smallcard p {
+    color: #727272;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.smallcard p span {
+    color: #A5A5A5;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.pricecard {
+    color: #727272;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+}
+
+.LongCard h3 {
+    color: #46A358;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+}
+.delete_small{
+    margin-left: 40px;
+    margin-right: 26px;
+}
+.totalprice{
+    margin-left: 86px;
+}
+.totalprice1{
+    margin-left: 82px;
+}
+.totalprice2{
+    margin-left: 77px;
+}
+.bob8{
+    margin-right: 10px;
+}
+.smallcard{
+    margin-right: 80px;
+}
+.pricecard{
+    margin-right:82px ;
+}
+.bob9{
+    margin-right: 80px;
+}
+.bob10{
+    margin-left: 45px;
+}
+.bob12{
+    margin-right: 77px;
+}
+.bob13{
+    margin-right: 82px;
+}
+.totalli{
+    margin-left: 10px;
+}

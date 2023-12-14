@@ -1,0 +1,181 @@
+.Bigimagewrap {
+    margin: 0 auto;
+    position: relative;
+}
+
+.bob1000 {
+    width: 356px;
+    height: 356px;
+    margin-left: 40px;
+}
+
+.heartposition1 {
+    position: absolute;
+    top: 33px;
+    right: 22px;
+}
+
+.leftposition {
+    position: absolute;
+    top: 33px;
+    left: 22px;
+}
+
+.PhoneShopWrapper1 {
+    margin-top: 34px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.minidiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.minidiv p {
+    color: #3D3D3D;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+}
+
+.minidiv span {
+    color: #727272;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.PhoneShopWrapper2 {
+    margin-top: 24px;
+    margin-bottom: 20px;
+}
+
+.PhoneShopWrapper2 p {
+    width: 361px;
+    color: #727272;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.PhoneShopWrapper ul {
+    margin-top: 22px;
+    margin-bottom: 29px;
+}
+
+.PhoneShopWrapper ul li {
+    color: #A5A5A5;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.PhoneShopWrapper ul li span {
+    color: #727272;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.PhoneShopWrapper10 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 22px;
+    padding-right: 22px;
+}
+
+.PhoneShopWrapper11 p {
+    color: #727272;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.PhoneShopWrapper11 {
+    gap: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 23px;
+}
+
+.PhoneShopWrapper11 button {
+    width: 24.316px;
+    height: 28px;
+    flex-shrink: 0;
+    background-color: #A5A5A5;
+    border: none;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.PhoneShopWrapper10 h4 {
+    color: #46A358;
+    text-align: right;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+}
+
+.PhoneShopWrapper1 h1 {
+    color: #3D3D3D;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+}
+
+.PhoneShopWrapper12 button {
+    border-radius: 40px;
+    background: linear-gradient(93deg, #46A358 -3.96%, rgba(70, 163, 88, 0.80) 121.97%);
+    box-shadow: 0px 10px 20px 0px rgba(70, 163, 88, 0.30);
+    width: 196px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+}
+
+.PhoneShopWrapper12 {
+    margin-bottom: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.smalldiv {
+    border-radius: 40px;
+    background: #F6F6F6;
+    width: 60px;
+    height: 60px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.PhoneShopWrapper {
+    display: none;
+}
+
+@media (max-width:425px) {
+    .PhoneShopWrapper {
+        display: block;
+    }
+}

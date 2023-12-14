@@ -1,0 +1,137 @@
+.BlogInfoPayment h5 {
+    color: #3D3D3D;
+    text-align: right;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: right;
+    margin-top: 17px;
+}
+.BlogInfoPayment{
+    margin-left: 84px;
+} 
+@media(max-width:425px){
+    .BlogInfoPayment{
+        margin-left: 0px;
+    } 
+}
+.BlogInfoPayment h5 span {
+    color: #46A358;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+}
+
+.BlogInfoPayment {
+    width: 321px;
+}
+
+.Fakeul h2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 17px;
+}
+
+.Fakeul h2 p {
+    color: #3D3D3D;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.Fakeul h2 h3 {
+    color: #3D3D3D;
+    text-align: right;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+}
+
+.Fakeul h2 h3:nth-of-type(2) {
+    color: #3D3D3D;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+
+
+.honey {
+    width: 321px;
+    height: 0.3px;
+    border-bottom: 0.3px solid rgba(70, 163, 88, 0.50);
+    padding-bottom: 17px;
+    color: #46A358;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    margin-top: 8px;
+    margin-bottom: 26px;
+    text-align: right;
+}
+
+.radiopaymentmethoddiv {
+    width: 321px;
+    height: 45px;
+    border-radius: 3px;
+    border: 1px solid #EAEAEA;
+    padding-left: 11px;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.radiopaymentmethoddiv:nth-of-type(3) {
+    width: 321px;
+    height: 45px;
+    border-radius: 3px;
+    border: 1px solid #EAEAEA;
+    padding-left: 11px;
+    gap: 10px;
+
+    border-radius: 3px;
+    border: 1px solid #46A358;
+}
+
+.radiopaymentmethoddiv p {
+    color: #3D3D3D;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.radiopaymentmethod h6 {
+    color: #3D3D3D;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    margin-top: 47px;
+}
+
+.radiopaymentmethod button {
+    width: 321px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 3px;
+    background: #46A358;
+    color: #FFF;
+    font-size: 15px; 
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    margin-top: 49px;
+}
